@@ -1,0 +1,19 @@
+[
+{
+  "modid": "Engrenage",
+  "name": "Engrenage",
+  "description": "Special mod for the EngrenagePack. Add achievements or other stuff.",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/Wykks/Engrenage",
+  "updateUrl": "",
+  "authorList": [ "Wykks" ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
